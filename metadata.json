@@ -1,0 +1,6 @@
+{
+  "name": "HawkKing UAE",
+  "description": "Professional tools, ladders, and scaffolding equipment engineered for the UAE's toughest job sites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
